@@ -38,7 +38,7 @@ body {
 
 .logo {
     display: flex;
-    align-items: center;
+    align-items: center;    
     font-family: 'Roboto';
     font-weight: 600;
     font-size: 36px;
